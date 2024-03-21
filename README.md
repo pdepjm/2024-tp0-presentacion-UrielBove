@@ -8,3 +8,5 @@
 ## Legajo: 213.140-7
 
 ## **Descripción Personal**
+
+*Buenas tardes, estoy en segundo año en Ingeniería en Sistemas, me gusta la programación, y espero que esta materia me sea de utilidad para seguir ampliando mis conocimientos para la carrera y también para futuros trabajos.*
